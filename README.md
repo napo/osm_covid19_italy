@@ -1,4 +1,4 @@
-# Urban data ecosystems in Covid-19 times and the rol eof OpenStreetMap in providing public services:experiences and reflections from the Italian case
+# Urban data ecosystems in Covid-19 times and the role of OpenStreetMap in providing public services:experiences and reflections from the Italian case
 ## analysis produced for the research
 
 ### analyzes taken into account 
