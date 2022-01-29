@@ -14,3 +14,7 @@ the Italian community has undertaken to update and correct the data with the pos
 #### insertion of delivery service keys created during lock-down
 during the lockdown period many commercial activities activated for the delivery service and, from here, the international community took action by [bringing this data](https://wiki.openstreetmap.org/wiki/COVID-19_-_How_to_Map#Keys_delivery.2C_takeaway.2C_drive-through_services) to OpenStreetMap
 
+![](https://raw.githubusercontent.com/napo/osm_covid19_italy/main/img/tags_covid.png)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/napo/osm_covid19_italy/HEAD)
